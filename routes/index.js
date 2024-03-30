@@ -23,7 +23,7 @@ const routes = express.Router()
  *           schema:
  *             type: object
  *             properties:
- *               firstname:
+ *               fullName:
  *                 type: string
  *               email:
  *                 type: string
